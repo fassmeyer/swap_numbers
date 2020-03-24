@@ -5,9 +5,9 @@ print("x ist", x)
 print("y ist", y)
 
 #swapping 
-z = x
+temp = x
 x = y
-y = z
+y = temp
 
 print("x ist jetzt", x)
 print("y ist jetzt", y)
