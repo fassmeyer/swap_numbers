@@ -15,4 +15,5 @@ print("y ist jetzt", y)
 print("Erneute Änderung um Merge zu testen")
 
 print("Erster Teil des neuen Features")
+print("Fertig gestellt.")
 
